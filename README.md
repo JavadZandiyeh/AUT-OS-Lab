@@ -1,4 +1,4 @@
-#Operating System Lab
+# Operating System Lab
 - project 1: Installing Linux / Linux file system / Linux file management / Linux file permissions
 - project 2: kernel module programming / Linux core data structure / kernel macros
 - project 3: bash scripting
